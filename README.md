@@ -17,7 +17,7 @@ Skills<br>
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mike0697)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <br><br>
 </h3>
 
