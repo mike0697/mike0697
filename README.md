@@ -13,8 +13,8 @@ Skills<br>
   
   <img src="https://aleen42.github.io/badges/src/photoshop.svg" alt="Photoshop">
   <img src="https://aleen42.github.io/badges/src/illustrator.svg" alt="Illustrator">
-  <br>
-  
+  <br><br>
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mike0697)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it)](https://github.com/anuraghazra/github-readme-stats)
