@@ -19,7 +19,10 @@ Skills<br>
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mike0697)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-  <br><br>
+  <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike0697&layout=compact&theme=tokyonight&hide_border=true&locale=it)](https://github.com/anuraghazra/github-readme-stats)
+  <br>
+  <br>
   <a href="https://twitter.com/michele0697"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/michele.pizz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://www.facebook.com/michele.pizzeghello/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Fb"></a>
