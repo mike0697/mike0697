@@ -2,7 +2,7 @@
 
 
 I study Computer Science at Ca 'Foscari in Venice, Italy.
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C# and Unity Engine
 - 💻 OS Manjaro
 <html>
 <h3>
