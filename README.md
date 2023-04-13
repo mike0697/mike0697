@@ -2,8 +2,8 @@
 
 
 I study Computer Science at Ca 'Foscari in Venice, Italy.
-- 🌱 I’m currently learning Python3
-- 💻 
+- 🌱 I’m currently learning Dart and Flutter
+- 💻 Ubuntu OS
 <html>
 <h3>
 Skills<br>
