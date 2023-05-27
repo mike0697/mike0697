@@ -3,7 +3,7 @@
 
 I study Computer Science at Ca 'Foscari in Venice, Italy.
 - 🌱 I’m currently learning Dart and Flutter
-- 💻 Ubuntu OS
+- 💻 Favorite distro: Kali Linux
 <html>
 <h3>
 Skills<br>
@@ -25,7 +25,7 @@ Skills<br>
   <br>
   <a href="https://twitter.com/michele0697"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.instagram.com/michele.pizz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/michele.pizzeghello/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Fb"></a>
+  <a href="https://www.facebook.com/profile.php?id=100093050381950"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Fb"></a>
 </h3>
 </html>
 
