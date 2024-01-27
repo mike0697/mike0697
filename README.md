@@ -2,7 +2,7 @@
 
 
 I study Computer Science at Ca 'Foscari in Venice, Italy.
-- 🌱 I’m currently learning Android Studio and Java
+- 🌱 I’m currently learning Dart, React, Sql and Flutter
 - 💻 Favorite distro: Kali Linux Purple
 <html>
 <h3>
