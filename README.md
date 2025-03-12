@@ -1,12 +1,13 @@
-### Hi there 👋
+### Hi 👋
 
 
-I study Computer Science at Ca 'Foscari in Venice, Italy.
-- 🌱 I’m currently learning Dart, React, Sql and Flutter
-- 💻 Favorite distro: Kali Linux Purple
+Hi, I study Information Technology And Science at Ca' Foscari, Mestre, Italy and I am passionate about technology and programming.
+- 💻 Favorite distro: Ubuntu,
+- 🔭 I'm working on Meta Quest vr in Godot Engine,
+- 📫 You can contact me on instagram Mike0697. I don't use facebook and linkedin often
 <html>
 <h3>
-Skills<br>
+Some skill badges<br><br>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -20,16 +21,8 @@ Skills<br>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mike0697&layout=compact&theme=tokyonight&hide_border=true&locale=it)](https://github.com/anuraghazra/github-readme-stats)
-  <br>
-  <br>
-  <a href="https://twitter.com/michele0697"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.instagram.com/michele.pizz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://www.facebook.com/profile.php?id=100093050381950"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Fb"></a>
 </h3>
 </html>
-
-
 <!--
 **mike0697/mike0697** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
