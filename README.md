@@ -4,7 +4,7 @@
 Hi, I study Information Technology And Science at Ca' Foscari, Mestre, Italy and I am passionate about technology and programming.
 - 💻 Favorite distro: Ubuntu,
 - 🔭 I'm working on Meta Quest vr in Godot Engine,
-- 📫 You can contact me on instagram Mike0697. I don't use facebook and linkedin often
+- 📫 You can contact me on instagram @michele.pizz. I don't use facebook and linkedin often
 <html>
 <h3>
 Some skill badges<br><br>
