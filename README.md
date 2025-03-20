@@ -35,6 +35,8 @@ Sono Michele, uno studente di Information Technology And Science presso l'Univer
 - 🗄️ Isar (NoSQL)
 - 🤖 Arduino
 - 🥽 Meta Quest VR Development
+- 🔥 Firebase
+- PostgreSQL
 
 ## 🚀 Progetti in Evidenza
 
@@ -66,5 +68,3 @@ Un'applicazione mobile per creare e gestire quest con diverse priorità, salvate
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mike0697)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mike0697&show_icons=true&theme=tokyonight&locale=it&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
