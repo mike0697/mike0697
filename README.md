@@ -1,16 +1,16 @@
 # Michele Pizzeghello 👨‍💻
 
-### Ciao! 👋
+### Hi there! 👋
 
-Sono Michele, uno studente di Information Technology And Science presso l'Università Ca' Foscari di Mestre, Italia. Sono appassionato di tecnologia, programmazione e sviluppo di videogiochi.
+I'm Michele, a student of Information Technology And Science at Ca' Foscari University in Mestre, Italy. I'm passionate about technology, programming, and video game development.
 
-## 🎓 Formazione
-- 🎓 Università Ca' Foscari, Mestre - Information Technology And Science (in corso)
-- 🎓 Diploma in Elettronica
+## 🎓 Education
+- 🎓 Ca' Foscari University, Mestre - Information Technology And Science (ongoing)
+- 🎓 Electronics Diploma
 
-## 💻 Competenze Tecniche
+## 💻 Technical Skills
 
-### Linguaggi di Programmazione
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -30,39 +30,40 @@ Sono Michele, uno studente di Information Technology And Science presso l'Univer
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 - 🎨 Blender
 
-### Altre Tecnologie
+### Other Technologies
 - 📱 Flutter
 - 🗄️ Isar (NoSQL)
 - 🤖 Arduino
 - 🥽 Meta Quest VR Development
 - 🔥 Firebase
+- Flask
 - PostgreSQL
 
-## 🚀 Progetti in Evidenza
+## 🚀 Featured Projects
 
 ### Brick Breaker Game (Godot Engine)
-Un'implementazione moderna del classico gioco Brick Breaker sviluppato con Godot Engine, con livelli di difficoltà progressivi, power-up e impostazioni personalizzabili.
+A modern implementation of the classic Brick Breaker game developed with Godot Engine, featuring progressive difficulty levels, power-ups, and customizable settings.
 - [Repository](https://github.com/mike0697/Breakout)
 
 ### Quest Planner (Flutter & Isar)
-Un'applicazione mobile per creare e gestire quest con diverse priorità, salvate localmente con Isar (database NoSQL).
+A mobile application for creating and managing quests with different priorities, saved locally with Isar (NoSQL database).
 - [Repository](https://github.com/mike0697/quest_planner)
 - [Download](https://github.com/mike0697/quest_planner/tree/master/release)
 
-### Progetti Universitari
-- **Virtual Machine in C**: Implementazione di una macchina virtuale in linguaggio C
-- **SharpSolver**: Un programma che risolve equazioni e disequazioni sviluppato in F#
+### University Projects
+- **Virtual Machine in C**: Implementation of a virtual machine in C language
+- **SharpSolver**: A program that solves equations and inequalities developed in F#
 
-### Lavori in Corso
-- 🔭 Attualmente sto lavorando su un progetto VR per Meta Quest utilizzando Godot Engine
+### Work in Progress
+- 🔭 I'm currently working on a VR project for Meta Quest using Godot Engine
 
-## 🌱 Interessi
-- 🎮 Sviluppo di videogiochi
-- 🥽 Realtà Virtuale
-- 🖥️ Programmazione
+## 🌱 Interests
+- 🎮 Video Game Development
+- 🥽 Virtual Reality
+- 🖥️ Programming
 - 🐧 Linux (Ubuntu)
 
-## 📫 Contatti
+## 📫 Contact
 - 📸 Instagram: [@michele.pizz](https://www.instagram.com/michele.pizz/)
 
 ---
