@@ -65,6 +65,7 @@ A mobile application for creating and managing quests with different priorities,
 
 ## 📫 Contact
 - 📸 Instagram: [@michele.pizz](https://www.instagram.com/michele.pizz/)
+- 📧 Email: michelepizzeghello@gmail.com
 
 ---
 
