@@ -20,6 +20,7 @@ I'm Michele, a student of Information Technology And Science at Ca' Foscari Univ
 
 ### Game Development
 - 🎮 Godot Engine 3 & 4
+- 🎮 Renpy
 - 🎮 Unity
 - 🎮 Construct Engine
 - 🎮 RPG Maker
@@ -29,6 +30,8 @@ I'm Michele, a student of Information Technology And Science at Ca' Foscari Univ
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 ![Illustrator](https://aleen42.github.io/badges/src/illustrator.svg)
 - 🎨 Blender
+- Stable Diffusion / Forge / ControlNet AI
+- ComfyUI AI
 
 ### Other Technologies
 - 📱 Flutter
@@ -65,6 +68,7 @@ A mobile application for creating and managing quests with different priorities,
 
 ## 📫 Contact
 - 📸 Instagram: [@michele.pizz](https://www.instagram.com/michele.pizz/)
+- LinkedIn: [Michele Pizzeghello](https://www.linkedin.com/in/michele-pizzeghello-1814a7aa/)
 - 📧 Email: michelepizzeghello@gmail.com
 
 ---
