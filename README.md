@@ -32,6 +32,7 @@ I'm Michele, a student of Information Technology And Science at Ca' Foscari Univ
 - 🎨 Blender
 - Stable Diffusion / Forge / ControlNet AI
 - ComfyUI AI
+- PixelArt 
 
 ### Other Technologies
 - 📱 Flutter
